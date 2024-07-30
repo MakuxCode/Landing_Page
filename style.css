@@ -37,3 +37,17 @@ nav a{
     margin-right: auto;
 }
 
+.subhead-header{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.subheader button{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: white;
+}
+
