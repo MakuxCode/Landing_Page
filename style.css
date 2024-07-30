@@ -24,3 +24,16 @@ nav a{
     color: white;
     margin-left: 20px;
 }
+
+.subheader{
+    background-color: #1F2937;
+    color: white;
+    padding: 100px;
+    display: flex;
+}
+
+.subhead-left{
+    margin-left: 0;
+    margin-right: auto;
+}
+
