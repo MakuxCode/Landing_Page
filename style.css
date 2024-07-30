@@ -17,12 +17,17 @@ header{
 .logo{
     margin-left: 0;
     margin-right: auto;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
 }
 
 nav a{
     text-decoration: none;
     color: white;
     margin-left: 20px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .subheader{
@@ -49,5 +54,6 @@ nav a{
     border-radius: 5px;
     background-color: #3882F6;
     color: white;
+    margin-top: 10px;
 }
 
