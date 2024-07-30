@@ -4,4 +4,24 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Roboto;
 }
+
+header{
+    display: flex;
+    padding: 10px 100px;
+    background-color: #1F2937;
+    color: white;
+}
+
+.logo{
+    margin-left: 0;
+    margin-right: auto;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+
