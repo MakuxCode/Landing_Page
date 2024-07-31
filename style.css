@@ -9,7 +9,7 @@
 
 header{
     display: flex;
-    padding: 10px 100px;
+    padding: 20px 300px;
     background-color: #1F2937;
     color: white;
 }
@@ -33,7 +33,7 @@ nav a{
 .subheader{
     background-color: #1F2937;
     color: white;
-    padding: 100px;
+    padding: 100px 300px;
     display: flex;
 }
 
