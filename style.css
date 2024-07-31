@@ -57,3 +57,44 @@ nav a{
     margin-top: 10px;
 }
 
+.sectone{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.sectone-boxes{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.sectone-header{
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.sectone-images{
+    border: solid #3882F6 3px;
+    height: 160px;
+    width: 180px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.sectone-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    text-align: center;
+}
+
+.sectone-para{
+    font-size: 15px;
+}
