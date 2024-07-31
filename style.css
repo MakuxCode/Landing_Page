@@ -121,3 +121,31 @@ nav a{
     font-size: 24px;
     color: #1F2937;
 }
+
+.sectthree-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 100px 300px;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+.sectthree-header{
+    font-size: 24px;
+    font-weight: bold;
+    color: #E5E7EB;
+}
+
+.sectthree-subheader{
+    color: #E5E7EB;
+}
+
+.sectthree-right button{
+    border: solid #E5E7EB 2px;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 5px 30px;
+}
